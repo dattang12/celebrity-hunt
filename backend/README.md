@@ -114,13 +114,5 @@ backend/
 
 ---
 
-## Built By
-
-- **Dat** — Full stack development, AI integration, data seeding
-- **Nikunj Bansal** — Architecture, backend, product
-
----
-
 ## License
-
 MIT
